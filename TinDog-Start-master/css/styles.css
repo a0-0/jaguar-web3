@@ -4,13 +4,13 @@
   background: #ff4c68;
 }
 
+
 h1 {
   font-family: 'Montserrat', sans-serif !important;
-  font-size: 3rem !important;
-  line-height:3.5rem !important;
+  font-size: 4rem !important;
+  line-height:5.5rem !important;
 }
 
 .container-fluid{
-  padding: 1% 15% !important;
-
+  padding: 3% 15% !important;
 }
