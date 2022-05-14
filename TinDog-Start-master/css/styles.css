@@ -2,15 +2,66 @@
 
 #title{
   background: #ff4c68;
+  color: #fff;
 }
 
 
 h1 {
   font-family: 'Montserrat', sans-serif !important;
   font-size: 4rem !important;
-  line-height:5.5rem !important;
+  line-height:6.5rem !important;
+
+  color: white !important;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif !important;
+
+}
+
+p{
+  color: #8f8f8f;
 }
 
 .container-fluid{
   padding: 3% 15% !important;
+}
+
+.navbar{
+  padding-bottom: 6.5rem !important;
+}
+
+.navbar-brand{
+  font-family: 'Ubuntu', sans-serif !important;
+  font-size: 2.5rem !important;
+}
+
+.nav-item{
+  padding: 0 30px !important;
+  font-size: 1.3rem !important;
+}
+
+.down-btn{
+  margin: 5% 3% 5% 0 !important;
+}
+
+.title-img{
+  width: 60%;
+  transform: rotate(25deg) !important;
+}
+
+#features{
+  padding: 7% 15%;
+}
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon{
+  color: #ff4c68;
+  margin-bottom: 3rem;
+}
+.icon:hover{
+  color: orange;
 }
