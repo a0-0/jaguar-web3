@@ -1,4 +1,4 @@
-#title {
+.title {
   background: #ff4c68;
   color: #fff;
 }
@@ -61,4 +61,42 @@ p {
 
 .icon:hover {
   color: orange;
+}
+
+
+/* testimonials */
+
+#testimonials{
+  padding: 5% 15%;
+  text-align: center;
+  color: #fff;
+  background: #ef8172;
+
+}
+
+
+h2{
+  font-size: 3rem !important;
+  line-height: 4.5rem !important;
+  font-family: "Montserrat";
+}
+
+.tem-img{
+  width: 150px;
+  border-radius: 100%;
+  margin: 40px 30px 40px 40px;
+}
+
+/*press  */
+
+#press{
+  background: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+
+}
+
+.prss-img{
+  width: 12%;
+  margin:20px 30px 50px;
 }
