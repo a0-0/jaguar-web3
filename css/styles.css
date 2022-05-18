@@ -46,11 +46,34 @@ p {
   position: absolute;
   right: 20%;
 }
+@media (min-width:995px) and (max-width:1455px)  {
+  .title-img {
+    position: absolute;
+    width:26%;
+    right: 10%;
+  }
+
+}
+
+@media (max-width:995px)  {
+  .title-img {
+    position: static;
+    width:60%;
+  }
+  .img-media{
+    text-align: center;
+  }
+  .container-fluid {
+    padding: 3% 7% !important;
+  }
+
+
+}
 
 #features {
-  padding: 7% 15%  !important;
+  padding: 7% 15% !important;
   background-color: #fff;
-  position: relative ;
+  position: relative;
 }
 
 .feature-box {
