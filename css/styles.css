@@ -41,12 +41,16 @@ p {
 }
 
 .title-img {
-  width: 60%;
+  width: 20%;
   transform: rotate(25deg) !important;
+  position: absolute;
+  right: 20%;
 }
 
 #features {
-  padding: 7% 15%;
+  padding: 7% 15%  !important;
+  background-color: #fff;
+  position: relative ;
 }
 
 .feature-box {
@@ -113,7 +117,7 @@ h2 {
   text-align: center;
 }
 
-.cts{
+.cts {
   width: 50%;
   margin: auto;
 }
