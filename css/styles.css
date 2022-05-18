@@ -103,25 +103,28 @@ h2 {
   margin: 3% 10%;
 }
 
-.col {
-  margin: 2% 0 !important;
-}
-
 .card {
   margin: 10px;
 }
-#cta{
-  background: #ff4c68;
 
-  padding: 70px;
+#cta {
+  background: #ff4c68;
+  padding: 70px 70px 10px 70px;
   text-align: center;
 }
 
-/* h3{
-  color: #fff !important;
-} */
+.cts{
+  width: 50%;
+  margin: auto;
+}
 
-#footer{
+.h3-color {
+  color: #fff !important;
+  font-size: 3rem !important;
+  line-height: 4.5rem !important;
+}
+
+#footer {
   padding: 20px;
   text-align: center;
 }
