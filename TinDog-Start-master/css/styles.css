@@ -63,40 +63,64 @@ p {
   color: orange;
 }
 
-
 /* testimonials */
-
-#testimonials{
-  padding: 5% 15%;
+#testimonials {
   text-align: center;
   color: #fff;
   background: #ef8172;
-
 }
 
-
-h2{
+h2 {
   font-size: 3rem !important;
   line-height: 4.5rem !important;
   font-family: "Montserrat";
 }
 
-.tem-img{
+.tem-img {
   width: 150px;
   border-radius: 100%;
   margin: 40px 30px 40px 40px;
 }
 
 /*press  */
-
-#press{
+#press {
   background: #ef8172;
   text-align: center;
   padding-bottom: 3%;
-
 }
 
-.prss-img{
+.prss-img {
   width: 12%;
-  margin:20px 30px 50px;
+  margin: 20px 30px 50px;
+}
+
+.carousel-item {
+  padding: 5% 15%;
+}
+
+#pricing {
+  text-align: center;
+  margin: 3% 10%;
+}
+
+.col {
+  margin: 2% 0 !important;
+}
+
+.card {
+  margin: 10px;
+}
+#cta{
+  background: #ff4c68;
+
+  padding: 70px;
+  text-align: center;
+}
+h3{
+  color: #fff !important;
+}
+
+#footer{
+  padding: 20px;
+  text-align: center;
 }
