@@ -67,6 +67,32 @@ p {
     padding: 3% 7% !important;
   }
 
+  h1{
+    font-size: 8rem !important;
+  }
+  h2{
+    font-size: 6rem !important;
+  }
+  h3{
+    font-size: 6rem !important;
+  }
+  .navbar-brand{
+    font-size: 5rem !important;
+  }
+  .nav-item{
+    font-size: 3rem !important;
+  }
+  p {
+    color: #8f8f8f;
+    font-size: 2rem !important;
+
+  }
+  .btn {
+    font-size: 3rem !important;
+  }
+  .navbar-toggler-icon{
+    font-size: 3rem !important
+  }
 
 }
 
