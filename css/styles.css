@@ -59,7 +59,7 @@ p {
   .title-img {
     position: static;
     width: 60%;
-    transform: rotate(0);
+    transform: rotate(0) !important;
   }
 
   .img-media {
